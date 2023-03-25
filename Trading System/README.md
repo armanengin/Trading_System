@@ -1,3 +1,7 @@
+# Trading system(C++)
+- A trading system that clients can request bids and asks. Server evaluates bid and asks according to an algorithm and rejects or approves the requests.
+- **Concept/Technologies:** Client server communication by using TCP, sockets
+
 The solution implemented by using c++'s standart containers
 1. What could be done better
     on testing lots of time spent for including google test library. Since I had limited time instead of using google test library I could have directly focusing on writing unit testing without using a library. However, provideed basic UI with couts to track code's relaibility.
